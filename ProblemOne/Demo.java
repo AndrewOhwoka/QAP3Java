@@ -11,7 +11,7 @@ public class Demo {
         Teacher mrJava = new Teacher("Duke Java", 34, "M", "Computer Science", 50000);
         System.out.println(mrJava);
 
-        // CollegeStudent ima = new CollegeStudent("Ima Frosh", 18, "F", "UCB123", 4.0, 1, "English");
-        // System.out.println(ima);  
+        CollegeStudent ima = new CollegeStudent("Ima Frosh", 18, "F", "UCB123", 4.0, 1, "English");
+        System.out.println(ima); 
     }
 }
